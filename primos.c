@@ -32,7 +32,7 @@ int main(){
         if(verificar_repeticao(encontrados, i, divisor) == 0){
             iEncontrados++;
             encontrados[i] = divisor;
-            printf("%d", divisor);
+            printf("\n %d \n", divisor);
             i++;
         }
     }
