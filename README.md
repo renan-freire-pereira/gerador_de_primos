@@ -1,4 +1,4 @@
-# gerador_de_primos
+# Algoritmo gerador de número primos
 Algoritmo que, segundo o principio de que todo primeiro divisor de determinado inteiro é primo, encontra números divisiveis apenas por eles mesmos ou por 1. 
 Prova:  <br>
 a | b, então a * q = b; <br>
